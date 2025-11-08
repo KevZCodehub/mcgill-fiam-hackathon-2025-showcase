@@ -6,6 +6,9 @@
 - `PortfolioBuilder/` turns the model outputs into tradable long/short books with regime-aware risk controls.
 - Modular design so teams can swap data loaders, model configs, or portfolio constraints without touching the full stack.
 
+## External Links
+- Interactive results site: [thegoingconcern.vercel.app](https://thegoingconcern.vercel.app)
+
 ## Tech Stack
 - Python 3.9
 - LightGBM, Optuna, pandas, NumPy, SciPy
@@ -24,7 +27,3 @@
   - Regime-aware lightGBM factor model maintained positive IC across macro cycles.
   - Portfolio builder met institutional diversification and turnover thresholds.
   - Automated reporting captured rolling Sharpe, drawdowns, and capital allocation diagnostics.
-
-## External Links
-- Interactive results site: Coming soon
-- Slide deck: Coming soon
