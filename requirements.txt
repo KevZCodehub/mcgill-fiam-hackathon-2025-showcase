@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+lightgbm
+optuna
+joblib
+python-dotenv
+matplotlib
+tqdm
+scikit-learn
+
