@@ -1,13 +1,14 @@
-# Asset Management Hackathon Toolkit
+# Asset Management Hackathon Toolkit  
+### 3rd Place • McGill FIAM Asset Management Hackathon 2025
+
+🔗 **Interactive Results Site:** [thegoingconcern.vercel.app](https://thegoingconcern.vercel.app)  
+🏆 **Official Hackathon Page:** [https://www.mcgill.ca/fiam/hackathon](https://hackathonfinance.com/)
 
 ## Overview
 - Research + execution stack that earned a 3rd-place finish at the 2025 McGill FIAM Asset Management Hackathon.
 - `Model/` produces cross-sectional return forecasts and feature importance analytics.
 - `PortfolioBuilder/` turns the model outputs into tradable long/short books with regime-aware risk controls.
 - Modular design so teams can swap data loaders, model configs, or portfolio constraints without touching the full stack.
-
-## External Links
-- Interactive results site: [thegoingconcern.vercel.app](https://thegoingconcern.vercel.app)
 
 ## Tech Stack
 - Python 3.9
